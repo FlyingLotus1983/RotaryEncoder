@@ -14,7 +14,7 @@ RotaryEncoder	KEYWORD1
 
 update	KEYWORD2
 read	KEYWORD2
-reset KEYWORD2
+reset	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
