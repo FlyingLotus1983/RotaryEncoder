@@ -6,15 +6,15 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-RotaryEncoder	 KEYWORD1
+RotaryEncoder	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-update	 KEYWORD2
-read	 KEYWORD2
-reset KEYWORD2
+update	KEYWORD2
+read	KEYWORD2
+reset	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
